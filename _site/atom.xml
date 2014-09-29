@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Tape-to-Tape</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2014-09-28T22:10:56-04:00</updated>
+ <id></id>
+ <author>
+   <name>Kyle & Ryan </name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome</title>
+   <link href="/blog/firstPost"/>
+   <updated>2014-09-28T00:00:00-04:00</updated>
+   <id>/blog/firstPost</id>
+   <content type="html">&lt;p&gt;Welcome  to Tape-to-Tape Our aim is to be a different kind of hockey blog.
+You won&amp;#39;t find in-depth game recaps here, nor will you find too much game analysis, though we will dedicate some time to analytics.
+Our blog will cover the less-talked about aspects of the game, and will focus more on stories and less on analysis. This is not just an NHL-blog.
+We&amp;#39;re hockey people. We love all aspects of the game, from days spent on frozen ponds to early morning skate-and-shoots.
+Our goal is to share our passion for the game we love with others who live and breathe hockey. We hope you&amp;#39;ll enjoy our blog!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

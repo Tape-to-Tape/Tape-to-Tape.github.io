@@ -1,0 +1,36 @@
+# Dependencies
+markdown:	redcarpet
+pygments:	true
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Tape-to-Tape
+tagline:	'blog'
+description:	'A Hockey Blog for Hockey People'
+author:
+  name:		'Kyle & Ryan '
+  url:
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover1.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/Tape_toTape
+    desc:	Follow Tape-to-Tape on Twitter
+menu:
+  - title: Drop the puck
+    url:	/
+#  - title:	About
+#    url:	/about
+
+copyright:
+  author:	Kyle B &Ryan M
+  url:
+  type_title:
+  type_url:
